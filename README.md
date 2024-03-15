@@ -33,9 +33,9 @@ Anyone can contribute to the project to add a list of training courses.
 |MongoDB | MongoDB Node.js Developer Path | [Learn](https://learn.mongodb.com/learning-paths/mongodb-nodejs-developer-path)|
 |MongoDB | MongoDB Java Developer Path | [Learn](https://learn.mongodb.com/learning-paths/mongodb-java-developer-path)|
 |Neo4J | Neo4J Fundamentals| [Learn](https://graphacademy.neo4j.com/courses/neo4j-fundamentals/) |
-|Neo4J | Importing CSV Data into Neo4J| MISSED |
-|Neo4J | Graph Data Modeling Fundamentals| MISSED |
-|Neo4J | Cypher Fundamentals| MISSED |
+|Neo4J | Importing CSV Data into Neo4J| [Learn](https://graphacademy.neo4j.com/courses/importing-cypher/) |
+|Neo4J | Graph Data Modeling Fundamentals| [Learn](https://graphacademy.neo4j.com/courses/modeling-fundamentals/) |
+|Neo4J | Cypher Fundamentals| [Learn](https://graphacademy.neo4j.com/courses/cypher-fundamentals/) |
 
 
 
