@@ -18,10 +18,17 @@ List of companies and each attached training
 * Junior Cybersecurity Analyst Career
 * ...
 
+
+## Linux foundation
+
+
 ## MongoDB
-* MongoDB Python Developer
-* MongoDB Database Administrator
-* Self-Managed Database Admin
+* MongoDB Python Developer : [Learn](https://learn.mongodb.com/learning-paths/mongodb-python-developer-path)
+* MongoDB Database Administrator : [Learn](https://learn.mongodb.com/learning-paths/mongodb-python-developer-path)
+* Self-Managed Database Admin : [Learn](https://learn.mongodb.com/learn/learning-path/mongodb-database-admin-self-managed-path)
+* MongoDB C# Developer Path: [Learn](https://learn.mongodb.com/learning-paths/using-mongodb-with-c-sharp)
+* MongoDB Node.js Developer Path : [Learn](https://learn.mongodb.com/learning-paths/mongodb-nodejs-developer-path)
+* MongoDB Java Developer Path : [Learn](https://learn.mongodb.com/learning-paths/mongodb-java-developer-path)
 
 ## Neo4J
 * Neo4J Fundamentals
