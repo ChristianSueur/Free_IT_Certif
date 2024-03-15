@@ -2,6 +2,8 @@
 
 List of companies and each attached training
 
+--- 
+
 ## CrowdSec Academy
 * CrowdSec Fundamentals :
 * Community Driven Cybersecurity
