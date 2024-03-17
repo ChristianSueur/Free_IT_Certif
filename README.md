@@ -8,12 +8,15 @@ Anyone can contribute to the project to add a list of training courses.
 
 ---
 ## Table of content
-* [General](#General)
-* [Networking](#Networking)
-* [Cybersecurity](#Cybersecurity)
-* [Database](#Database)
-* [Programming](#Programming)
-* [Other](#Other)
+- [Free\_IT\_Certif](#free_it_certif)
+	- [Description](#description)
+	- [Table of content](#table-of-content)
+		- [General](#general)
+		- [Networking](#networking)
+		- [Cybersecurity](#cybersecurity)
+		- [Database](#database)
+		- [Programming](#programming)
+		- [Other](#other)
 
 
 ### General
@@ -68,7 +71,7 @@ Anyone can contribute to the project to add a list of training courses.
 | Linux Foundation | Security Self-Assessments for Open Source Projects (LFEL1005) | [Learn](https://trainingportal.linuxfoundation.org/learn/course/security-self-assessments-for-open-source-projects-lfel1005) |
 | Linux Foundation | Securing Projects with OpenSSF Scorecard (LFEL1006) | [Learn](https://trainingportal.linuxfoundation.org/learn/course/securing-projects-with-openssf-scorecard-lfel1006)|
 | Linux Foundation | Automating Supply Chain Security: SBOMs and Signatures (LFEL1007) | [Learn](https://trainingportal.linuxfoundation.org/learn/course/automating-supply-chain-security-sboms-and-signatures-lfel1007)|
-| Linux Foundation | Antitrust Laws and Open Source Software Project Management and Participation (LFC105) | [Learn](Antitrust Laws and Open Source Software Project Management and Participation (LFC105)) |
+| Linux Foundation | Antitrust Laws and Open Source Software Project Management and Participation (LFC105) | [Learn](https://trainingportal.linuxfoundation.org/learn/course/antitrust-laws-and-oss-project-management-and-participation-lfc105) |
 | Linux Foundation | Cybersecurity Essentials (LFC108) | [Learn](https://trainingportal.linuxfoundation.org/learn/course/cybersecurity-essentials-lfc108) |
 | Linux Foundation | Security Self-Assessments for Open Source Projects (LFEL1005) | [Learn](https://trainingportal.linuxfoundation.org/learn/course/security-self-assessments-for-open-source-projects-lfel1005) |
 | Linux Foundation | Automating Supply Chain Security: SBOMs and Signatures (LFEL1007) | [Learn](https://trainingportal.linuxfoundation.org/learn/course/automating-supply-chain-security-sboms-and-signatures-lfel1007) |
