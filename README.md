@@ -42,6 +42,9 @@ Anyone can contribute to the project to add a list of training courses.
 
 
 ### Networking
+
+| Provider | Title | Links |
+|---|---|---|
 | Cisco | Network Addressing and Basic Troubleshooting | [Learn](https://skillsforall.com/course/network-addressing-and-basic-troubleshooting?courseLang=en-US) |
 | Cisco | Networking Basics| [Learn](https://skillsforall.com/course/networking-basics?courseLang=en-US) |
 | Cisco | Networking Devices and Initial Configuration| [Learn](https://skillsforall.com/course/networking-devices-and-initial-configuration?courseLang=en-US)|
